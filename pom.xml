@@ -8,6 +8,8 @@
     <packaging>mule-application</packaging>
 
 
+
+
 	<name>poc-on-jenkins1</name>
 
     <properties>
